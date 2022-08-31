@@ -25,6 +25,7 @@ body{
 
 .main-container{
     background: var(--white);
+    height: 100vh;
     width: 330px;
     min-height: 536px;
     margin: 120px auto 30px;
